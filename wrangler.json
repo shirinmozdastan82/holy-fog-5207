@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "holy-fog-5207",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "28a6b1e2-913d-4c04-8275-3ddcb2385939",
+      "database_name": "shirin_mozdastan"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
